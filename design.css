@@ -59,8 +59,7 @@ html,body{
 
 .main-header{
     
-    background-image: url("Images/electronics2.jpg");
-    background-size:cover;
+    
     background-color: rgba(0,0,0,.5);
     background-blend-mode: multiply;
     padding-bottom: 15px;
